@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Melamed;Lemuel;;;
+FN:Lemuel Melamed
+ORG:Promitei Ltd.
+TITLE:General Director
+TEL;TYPE=CELL,VOICE:+972502133242
+TEL;TYPE=WORK,VOICE:+94774171774
+EMAIL;TYPE=WORK,INTERNET:ceo@promitei.com
+URL:https://promitei.com
+ADR;TYPE=WORK:;;1/70 Derech Ben Gurion;Rehovot;;;Israel
+END:VCARD
